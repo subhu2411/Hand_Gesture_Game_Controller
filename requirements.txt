@@ -1,5 +1,5 @@
-streamlit
+streamlit==1.53.1
+mediapipe==0.10.32
 opencv-python-headless==4.8.1.78
-opencv-python
-mediapipe
-pyautogui
+pyautogui==0.9.54
+numpy==1.26.4
